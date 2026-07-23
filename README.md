@@ -6,6 +6,8 @@ The application provides a visual representation of each valid chessboard config
 
 Built with **Python** and **Streamlit**, the project is lightweight, interactive, and easy to deploy on **Streamlit Community Cloud**. It is ideal for students studying **Data Structures and Algorithms (DAA)**, educators demonstrating backtracking techniques, and developers interested in classic algorithmic problems.
 
+https://n-queens-problem-h9wrnmtejhrowkmiklf53m.streamlit.app/
+
 ---
 
 ## 🚀 Features
@@ -22,28 +24,6 @@ Built with **Python** and **Streamlit**, the project is lightweight, interactive
 
 - Python 3
 - Streamlit
-
----
-
-## 📂 Project Structure
-
-```
-N-Queens-Backtracking/
-│── app.py
-│── requirements.txt
-│── README.md
-```
-
----
-
-## ▶️ Installation
-
-```bash
-git clone https://github.com/your-username/n-queens-backtracking.git
-cd n-queens-backtracking
-pip install -r requirements.txt
-streamlit run app.py
-```
 
 ---
 
